@@ -16,4 +16,27 @@ Contains core Python concept practice:
 - Simple interest calculator
 - Variable swapping
 
-(More topics will be added as learning
+(More topics will be added as learning progresses.)
+
+---
+
+## 🎯 Learning Approach
+
+- One concept = one file
+- Clean and readable code
+- Proper commit messages
+- Continuous daily improvement
+
+---
+
+## 🚀 Progress
+
+This repository will continuously expand with:
+- Control flow (if-else, loops)
+- Functions
+- Data structures
+- Mini projects
+
+---
+
+**Author:** Disha Kinge
